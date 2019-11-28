@@ -585,8 +585,6 @@ header.masthead .intro-text .intro-heading {
 }
 
 .iframeVideo {
-  width: 960px;
-	height: 270px;
   position: relative;
   margin: auto;
 }

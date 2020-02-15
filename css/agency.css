@@ -610,7 +610,7 @@ header.masthead .intro-text .intro-heading {
 
 .videoWrapper {
 	position: relative;
-	padding-bottom: 25.9%; /* 32:9 */
+	padding-bottom: 39.7%;  /*25.9%; /* 32:9 */
 	padding-top: 25px;
 	height: 0;
 }

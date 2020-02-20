@@ -569,8 +569,8 @@ header.masthead .intro-text .intro-heading {
 }
 
 .team-member img {
-  width: 225px;
-  height: 225px;
+  width: 200px;
+  height: 200px;
   border: 7px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -583,30 +583,6 @@ header.masthead .intro-text .intro-heading {
 .team-member p {
   margin-top: 0;
 }
-
-/* .iframeVideo {
-  height: 270px;
-  width: 960px;
-  position: relative;
-  margin: auto;
-}
-.iframeVideo iframe {
-	width: 100%;
-	height: 100%;
-  position: absolute;
-} */
-
-/* .iframeVideo {
-	height: 0px;
-	padding-top: 25px;
-	padding-bottom: 56.2%;
-	position: relative;
-}
-.iframeVideo iframe {
-	width: 100%;
-	height: 100%;
-	position: absolute;
-} */
 
 .videoWrapper {
 	position: relative;
